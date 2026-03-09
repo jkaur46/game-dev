@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 [gd_scene load_steps=2 format=3 uid="uid://b035iounel5xo"]
 
 [ext_resource type="Script" uid="uid://dtvbilgisv2ml" path="res://killzone.gd" id="1_3brf5"]
-=======
-[gd_scene load_steps=2 format=3 uid="uid://dolj8l7squley"]
-
-[ext_resource type="Script" uid="uid://c4wfg4354mefp" path="res://killzone.gd" id="1_3brf5"]
->>>>>>> 0ba0e0c2e11cca2d3aa5abd339c47fc10a1c2b55
 
 [node name="Killzone" type="Area2D"]
 collision_mask = 2
